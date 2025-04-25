@@ -1,50 +1,78 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=I'm+Rio;Have+a+nice+day+guys+!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Rio+%F0%9F%91%8B;Data+Enthusiast+%F0%9F%93%8A;Turning+Numbers+into+Stories+%F0%9F%93%88" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">Working on myself ... </h3>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=TrggTin&label=Profile%20views&color=0e75b6&style=flat"
-    alt="TrggTin"
-  />
+
+<h3 align="center">Data Analyst | Problem Solver | Continuous Learner</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TrggTin&label=Profile+Views&color=5D3FD3&style=flat" alt="Profile views" /> 
+  • 
+  <img src="https://img.shields.io/github/followers/TrggTin?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=TrggTin"
-      alt="TrggTin"
-  /></a>
-</p>
+---
 
-- 🌱 I’m currently working on **Data Statictics for Data Analyst and Data Scientist**
-- 📫 Contact **nguyentrongtinly@gmail.com.**
+### 🛠️ Tech Stack
 
-### Connect with me:
+**Data Analysis & Visualization**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5D3FD3?style=for-the-badge)
 
-<div align="left">
+**Databases**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Platforms**  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrggTin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="TrggTin's stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrggTin&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrggTin&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=TrggTin&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
   <a href="mailto:nguyentrongtinly@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com>"
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/TrggTin">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://leetcode.com/yourprofile">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </div>
 
-### Programming Languages:
+---
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-00599C?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
-</div>
-
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrggTin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TrggTin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🔥 Recent Activity
+<!--START_SECTION:activity-->
+1. 🎉 Completed Data Analysis Certification
+2. 🚀 Started new data visualization project
+<!--END_SECTION:activity-->
