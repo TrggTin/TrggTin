@@ -1,5 +1,3 @@
-# Rio's Data Analytics Portfolio
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=5D3FD3&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Rio+%F0%9F%91%8B;Data+Enthusiast+%F0%9F%93%8A;Numbers+into+Stories+%F0%9F%93%88" alt="Typing SVG" />
