@@ -55,12 +55,7 @@ I am a passionate Data Analyst with a strong foundation in data analysis, visual
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TrggTin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="TrggTin's stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrggTin&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrggTin&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
