@@ -52,12 +52,6 @@ I am a passionate Data Analyst with a strong foundation in data analysis, visual
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrggTin&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=TrggTin&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)
 
