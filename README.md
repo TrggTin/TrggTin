@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">Data Analyst | Problem Solver | Continuous Learner</h3>
+<h3 align="center">AI Engineer | Problem Solver | Continuous Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TrggTin&label=Profile+Views&color=5D3FD3&style=flat" alt="Profile views" /> 
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate Data Analyst with a strong foundation in data analysis, visualization, and statistical methods. My goal is to transform complex data into clear, actionable insights that drive business decisions. I enjoy solving challenging problems and continuously learning new technologies and methodologies in the data field.
+I am a passionate Data Analyst/AI Engineer with a strong foundation in data analysis, visualization, and statistical methods. My goal is to transform complex data into clear, actionable insights that drive business decisions. I enjoy solving challenging problems and continuously learning new technologies and methodologies in the data field.
 
 ## 🛠️ Tech Stack
 
