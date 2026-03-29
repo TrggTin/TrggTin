@@ -52,11 +52,6 @@ I am a passionate Data Analyst/AI Engineer with a strong foundation in data anal
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TrggTin&theme=dracula&no-frame=true&margin-w=15&row=2&column=4)
-
-## 🌟 Featured Projects
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -84,6 +79,3 @@ I am a passionate Data Analyst/AI Engineer with a strong foundation in data anal
 - 📧 Email: nguyentrongtinly@gmail.com
 
 ---
-<div align="center">
-  <sub>Built with ❤️ by Rio</sub>
-</div>
